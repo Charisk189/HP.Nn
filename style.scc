@@ -1,3 +1,4 @@
+/* style.css */
 body {
   font-family: "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
   background: linear-gradient(180deg, #f9f9fb, #eef2f7);
