@@ -68,8 +68,3 @@ p:last-of-type {
   background: #eaf6ff;
   border-left: 5px solid #3498db;
 }
-</style>
-
- </body>
-</html>
-
